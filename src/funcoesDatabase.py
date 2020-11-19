@@ -131,7 +131,6 @@ def CalculaNotas(db_teste):
                 if res_codigos[questao] == gab_codigos[questao + 5]:
                     aluno['P'] += 1
 
-        print("iteração N ", ind)
         # inclui o aluno na database
         db_final = db_final.append(aluno, ignore_index=True)
 
@@ -174,7 +173,6 @@ def TranformaString(base):
         q06 = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q']
         aluno['Q006'] = q06.index(base['Q006'][ind])
 
-        print("iteração N ", ind)
         # inclui o aluno na database
         db_final = db_final.append(aluno, ignore_index=True)
 
