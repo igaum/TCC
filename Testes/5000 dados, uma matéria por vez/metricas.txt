@@ -1,0 +1,52 @@
+Métricas da materia  C : 
+MSE:  3.293668107663315
+MAE:  1.4438132076496417
+
+
+Métricas da materia  Q : 
+MSE:  4.829133420009853
+MAE:  1.7528781450323276
+
+
+Métricas da materia  B : 
+MSE:  5.727902297800651
+MAE:  1.849184695155203
+
+
+Métricas da materia  M : 
+MSE:  24.96081865359906
+MAE:  3.7363873043419207
+
+
+Métricas da materia  G : 
+MSE:  5.618698174728614
+MAE:  1.8537475729283792
+
+
+Métricas da materia  H : 
+MSE:  6.687832834994365
+MAE:  2.057121272962624
+
+
+Métricas da materia  S : 
+MSE:  4.330646624769534
+MAE:  1.647396968495377
+
+
+Métricas da materia  F : 
+MSE:  3.119627026523808
+MAE:  1.3904679147712191
+
+
+Métricas da materia  P : 
+MSE:  8.539273477146914
+MAE:  2.3313018603473563
+
+
+Métricas da materia  L : 
+MSE:  3.0634103362050373
+MAE:  1.3717390267205152
+
+Média geral:
+MSE: 7.017
+MAE: 1.943
