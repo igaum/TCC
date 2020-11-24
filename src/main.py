@@ -6,11 +6,11 @@ import funcoesDatabase
 
 tempo_inicio = time.time()
 
-# df_teste = pd.read_csv("teste.csv", sep=";", encoding="latin 1")
-# df_treinamento = pd.read_csv("treinamento.csv", sep=";", encoding="latin 1")
+df_teste = pd.read_csv("teste.csv", sep=";", encoding="latin 1")
+df_treinamento = pd.read_csv("treinamento.csv", sep=";", encoding="latin 1")
 
+Calcula_metricas_random_forest(df_teste, df_treinamento)
 # Previsao_uma_materia_por_vez(df_teste, df_treinamento)
-# Calcula_metricas_random_forest(df_teste, df_treinamento)
 
 
 print("\n--- execução realizada em %.7s segundos ---"
